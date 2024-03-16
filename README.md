@@ -39,7 +39,7 @@ Este projeto consiste em arquivos HTML e CSS. Basta fazer o download ou clonar o
 
 ## 🔗 Versão Hospedada
 
-[Link para a versão hospedada do projeto](#)
+[Link para a versão hospedada do projeto](https://wave-cast-drab.vercel.app/)
 
 ## 👤 Autor
 
