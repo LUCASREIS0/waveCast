@@ -44,7 +44,3 @@ Este projeto consiste em arquivos HTML e CSS. Basta fazer o download ou clonar o
 ## 👤 Autor
 
 Desenvolvido por [Lucas Reis](https://wa.me/558186580542).
-
-**Faltando Informação de**:
-
-- Versão hospedada do projeto.
